@@ -19,8 +19,10 @@ Perfect for learning file handling in C or managing small CSV-based datasets thr
 2. Compile the source code with a C compiler (Dev C++, etc).
 3. Run the executable and follow the menu prompts.
 
-## 🖼️ Screenshot
+### 🖼️ Screenshot
 
 ![CSV Reader Screenshot](assets/image1.jpg)
+
 ![CSV Reader Screenshot](assets/image2.jpg)
+
 ![CSV Reader Screenshot](assets/image3.jpg)
